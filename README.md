@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![MasterHead](https://raw.githubusercontent.com/ndappfinance/NDAPP_assets/main/header_github.jpg)](https://github.com/ndappfinance)
+
